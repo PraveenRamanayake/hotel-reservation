@@ -30,7 +30,9 @@ public class RoomController {
                 rooms.add(room);
             }
         }
+
         return rooms;
+
     }
 
 }
